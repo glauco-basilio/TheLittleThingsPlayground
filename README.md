@@ -1,7 +1,7 @@
 # TheLittleThingsPlayground
 Playground for experimenting with new Xamarin.Forms features.
 
-## ThreeThree (Xamarin.Forms 3.4.0)
+## ThreeFour (Xamarin.Forms 3.4.0)
 
 [Release Notes](https://developer.xamarin.com/releases/xamarin-forms/xamarin-forms-3.4/3.4.0/)
 
